@@ -1,4 +1,4 @@
-# Lightspeed
+# Lightspeed 09/21-09/21, 09/22-09/22
 
 Lightspeed is a minimalist typing application that aims to increase typing speed.
 It is inspired by monkeytype. I chose to create this because I adored the monkeytype
