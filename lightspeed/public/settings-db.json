@@ -1,0 +1,28 @@
+{
+	"themes" : {
+		"default" : {
+			"id" : 1,
+			"body" : "#323437",
+			"primary" : "#00FFFF",
+			"text" : "#FFFFFF"
+		},
+		"matrix" : {
+			"id" : 2,
+			"body" : "#000000",
+			"primary" : "#14FE00",
+			"text" : "#ADFFA7"
+		},
+		"sunshine" : {
+			"id" : 3,
+			"body" : "#FFDE00",
+			"primary" : "#6599FF",
+			"text" : "#000"
+		},
+		"samurai" : {
+			"id" : 4,
+			"body" : "#FFBF00",
+			"primary" : "#14A3C7",
+			"text" : "#000"
+		}
+	}
+}

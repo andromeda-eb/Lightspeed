@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+@font-face {
+    font-family: "Roboto Mono Regular";
+    src: local("Roboto Mono Regular"),
+         url("./components/assets/fonts/roboto-mono/roboto-mono-regular.woff"),
+         url("./components/assets/fonts/roboto-mono/roboto-mono-regular.woff2");
+}
+
+@font-face {
+    font-family: "Roboto Mono Thin";
+    src: local("Roboto Mono Thin"),
+         url("./components/assets/fonts/roboto-mono/roboto-mono-thin.woff"),
+         url("./components/assets/fonts/roboto-mono/roboto-mono-thin.woff2");
+}
+
+@font-face {
+    font-family: "Quicksand Regular";
+    src: local("Quicksand Regular"),
+         url("./components/assets/fonts/quicksand/quicksand-regular.woff"),
+         url("./components/assets/fonts/quicksand/quicksand-regular.woff2");
+}
+
+@font-face {
+    font-family: "Sora Regular";
+    src: local("Sora Regular"),
+         url("./components/assets/fonts/sora/sora-regular.woff"),
+         url("./components/assets/fonts/sora/sora-regular.woff2");
+}
+
+@font-face {
+    font-family: "Sora Thin";
+    src: local("Sora Thin"),
+         url("./components/assets/fonts/sora/sora-thin.woff"),
+         url("./components/assets/fonts/sora/sora-thin.woff2"),
+         url("./components/assets/fonts/sora/sora-thin.ttf");
+}
