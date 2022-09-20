@@ -16,3 +16,8 @@ At the end of each test, you will be presented your WPM (words typed per minute)
 that will describe your WPM and EPM (errors typed per minute)
 
 You can also change the theme and the font in the settings page
+
+# Notes
+You need to be connected to the internet to view statistic. This is because I am using a Google library to display chart data.
+
+There are some issues when you spam a bunch of key presses. The app appears to stutter. This is a problem that I need to fix.
