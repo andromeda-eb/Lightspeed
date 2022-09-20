@@ -26,6 +26,6 @@ c = a / b  ( correct words typed so far ) <br>
 d = c / elapsed minutes ( current correct words per minute )
 
 # Notes
-You need to be connected to the internet to view statistic. This is because I am using a Google library to display chart data.
+You need to be connected to the internet to view statistic. This is because I am using a Google library (React Google Charts) to display chart data.
 
 There is an issue when you spam a bunch of key presses. The app appears to stutter. This is a problem that I need to fix.
