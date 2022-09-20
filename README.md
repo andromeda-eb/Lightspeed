@@ -19,7 +19,7 @@ that will describe your WPM and EPM (errors typed per minute)
 You can also change the theme and the font in the settings page
 
 # Formula
-The formula that I am using to calculate words per minute (wpm) is:
+The formula that I am using to calculate words per minute (wpm) is: <br>
 a = correct letters typed
 b = 5 ( length of an average word )
 c = a / b  ( correct words typed so far )
