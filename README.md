@@ -1,8 +1,9 @@
 # Lightspeed 09/21-09/21, 09/22-09/22
 
 Lightspeed is a minimalist typing application that aims to increase typing speed.
-It is inspired by monkeytype. I chose to create this because I adored the monkeytype
-application and wanted to create my own version and also learn the React library.
+This application is built using the React library. It is inspired by monkeytype.
+I chose to create this because I adored the monkeytype application and wanted to
+create my own version and also learn the React library.
 
 There are 3 options available: words, paragraphs and custom.
 
@@ -17,7 +18,14 @@ that will describe your WPM and EPM (errors typed per minute)
 
 You can also change the theme and the font in the settings page
 
+# Formula
+The formula that I am using to calculate words per minute (wpm) is:
+a = correct letters typed
+b = 5 ( length of an average word )
+c = a / b  ( correct words typed so far )
+d = c / elapsed minutes ( current correct words per minute )
+
 # Notes
 You need to be connected to the internet to view statistic. This is because I am using a Google library to display chart data.
 
-There are some issues when you spam a bunch of key presses. The app appears to stutter. This is a problem that I need to fix.
+There is an issue when you spam a bunch of key presses. The app appears to stutter. This is a problem that I need to fix.
